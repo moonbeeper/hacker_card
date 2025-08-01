@@ -8,9 +8,9 @@ For future info, I've used the hack club's [hack card](https://jams.hackclub.com
 
 ## Images
 
-![image](.github/images/4.png)
+![image](.github/images/7.png)
 
-![image](.github/images/5.png)
+![image](.github/images/6.png)
 > The first image is the front and the second one is the back.
 
 ## BOM

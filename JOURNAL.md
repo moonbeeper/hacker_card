@@ -5,6 +5,8 @@ description: "Its the Hacker Card of Moonbeeper!"
 created_at: "2025-08-01"
 ---
 
+**Total time spent: 6h 22min**
+
 # August 1st
 
 hello. I wanted to make a hacker card for my self and... uhh I practically gotten my self into this situation where highway is ending and I didn't make my hacker card. sooo, I decided to make it after doing some beautiful procrastination.
@@ -42,3 +44,15 @@ In the end I used up 6 whole hours to do all of this. I don't work great when am
 **Total time spent: 6h**
 
 BUT Leaving that aside, I'm still proud of myself for making this card. It looks great (in my eyes at least) even though I didn't even journal it correctly haha.
+
+---
+
+Thanks to one of the reviewers I've fixed the copper that was practically next to the NFC antenna. If I hadn't done this the antenna won't work properly or even have a really really bad range. Thanks Logan!
+
+Btw, it was a really easy fix. Just removed a lil' bit of the copper and that's it or I think so :3. Here's how it looks now:
+
+![image](.github/images/6.png)
+
+I also updated the readme images to reflect the changes :).
+
+**Total time spent: 22min**
