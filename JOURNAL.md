@@ -5,7 +5,7 @@ description: "Its the Hacker Card of Moonbeeper!"
 created_at: "2025-08-01"
 ---
 
-**Total time spent: 6h 22min**
+**Total time spent: 6h 32min**
 
 # August 1st
 
@@ -56,3 +56,20 @@ Btw, it was a really easy fix. Just removed a lil' bit of the copper and that's 
 I also updated the readme images to reflect the changes :).
 
 **Total time spent: 22min**
+
+---
+
+Seems like I left in the center lines inside the copper layer I've used to position stuff around the card. Just fixed that too.
+
+You could see it in the last screenshots, but here's one with amplification:
+
+![image](.github/images/10.png)
+> You can see the center lines in the front part of the pcb.
+
+This doesn't really need a whole new screenshot so am just going to update the README with the new images (even though there's minimal changes).
+
+**Total time spent: 10min**
+
+---
+
+I've also added a little bit of text to the back of the card.

@@ -2895,6 +2895,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b3c188fc-700e-48af-9eed-47f84074c86a")
 			(effects
 				(font
@@ -13542,27 +13543,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(gr_line
-		(start 47.2 86.2)
-		(end 132.8 86.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(locked yes)
-		(layer "F.Cu")
-		(uuid "11768633-316a-41c4-99f5-702aa57b7921")
-	)
-	(gr_line
-		(start 90 59.2)
-		(end 90 113.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.Cu")
-		(uuid "315d1f1b-3e3f-442c-90e1-b374cf45d3eb")
-	)
 	(gr_circle
 		(center 54 106)
 		(end 51.9 103.9)
@@ -13628,6 +13608,16 @@
 		(fill no)
 		(layer "B.SilkS")
 		(uuid "e15dd4a9-9c2b-4e4a-bc91-a7505080563e")
+	)
+	(gr_line
+		(start 90 59.2)
+		(end 90 113.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "315d1f1b-3e3f-442c-90e1-b374cf45d3eb")
 	)
 	(gr_arc
 		(start 128.8 59.2)
