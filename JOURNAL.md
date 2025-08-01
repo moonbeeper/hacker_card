@@ -1,0 +1,44 @@
+---
+title: "Moon's Hacker Card"
+author: "Moonbeeper"
+description: "Its the Hacker Card of Moonbeeper!"
+created_at: "2025-08-01"
+---
+
+# August 1st
+
+hello. I wanted to make a hacker card for my self and... uhh I practically gotten my self into this situation where highway is ending and I didn't make my hacker card. sooo, I decided to make it after doing some beautiful procrastination.
+
+I'll e using this [tutorial](https://jams.hackclub.com/jam/hacker-card) as a big guide for making this card.
+
+Uhm... as you might see this was made in a rush. That means pretty bad descriptions and all of that. Sorry about that haha.
+
+This is how the card started in figma:
+
+![image](.github/images/1.png)
+
+Quite simple, right?
+
+Then I added more things to the back of the card and left forgotten the things in the front with simple stuff.
+
+![image](.github/images/2.png)
+
+![image](.github/images/3.png)
+> The first image is the back and the second one is the front.
+
+In the end I stopped making screenshots of everything I made and from that point I practically added things directly to the pcb without passing it through figma. That means the only thing I can show is the finished pcb itself. Sorry!!
+
+These are the final resulta after skipping all the correct steps:
+
+![image](.github/images/4.png)
+
+![image](.github/images/5.png)
+> The first image is the front and the second one is the back.
+
+See how I stated that in the start I practically forgot about the front of the card? Yeah... I really did. I was so focused on the back of the card that I didn't even think about the front. It just a barren land with my name and that's it lol.
+
+In the end I used up 6 whole hours to do all of this. I don't work great when am with a deadline imposed primarily by my own self thanks to my stupidity lol.
+
+**Total time spent: 6h**
+
+BUT Leaving that aside, I'm still proud of myself for making this card. It looks great (in my eyes at least) even though I didn't even journal it correctly haha.
