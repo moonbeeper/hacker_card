@@ -5,13 +5,13 @@ description: "Its the Hacker Card of Moonbeeper!"
 created_at: "2025-08-01"
 ---
 
-**Total time spent: 6h 32min**
+**Total time spent: 6h 37min**
 
 # August 1st
 
 hello. I wanted to make a hacker card for my self and... uhh I practically gotten my self into this situation where highway is ending and I didn't make my hacker card. sooo, I decided to make it after doing some beautiful procrastination.
 
-I'll e using this [tutorial](https://jams.hackclub.com/jam/hacker-card) as a big guide for making this card.
+I'll be using this [tutorial](https://jams.hackclub.com/jam/hacker-card) as a big guide for making this card.
 
 Uhm... as you might see this was made in a rush. That means pretty bad descriptions and all of that. Sorry about that haha.
 
@@ -72,4 +72,6 @@ This doesn't really need a whole new screenshot so am just going to update the R
 
 ---
 
-I've also added a little bit of text to the back of the card.
+woops. The BIRB text had its REF visible! I fixed that by hiding it (pressing SUPR). I also checked the other images in the silkscreen for the same thing to be fixed lol.
+
+**Total time spent: 5min**
